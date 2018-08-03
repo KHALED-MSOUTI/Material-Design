@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 03 16:25:53 EET 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\kh200\\Desktop\\Udacity-Make-Your-App-Material-master\\XYZReader\\build\\intermediates\\assets\\debug
+0.path=Rosario-Regular.ttf
+0.set=ASSET
+count=1
